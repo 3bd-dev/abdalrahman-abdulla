@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello World 👋, I'm Abdulrahman!
 
-<!--
-**abdalrahman-abdulla/abdalrahman-abdulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Full-Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
+<img align='right' vertical-align="center" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=790b7611263a0ee994e34895a4d20bbb2f369983955d0265&rid=giphy.gif&ct=g" width="210">
 
-Here are some ideas to get you started:
+```javascript
+const 3BD = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "PHP"],
+    technologies: {
+        backEnd: {
+            TS: ["Node", "Express", "TypeORM", "Prisma"],
+            PHP: ["laravel"],
+        },
+        frontEnd: ["Vuejs", "React & Next"],
+        databases: ["MySql", "PostgreSql","Mongo"],
+        misc: ["Firebase", "Socket.IO", "Pusher"]
+    },
+    currentFocus: "DevOps",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+}; 
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me on: [AbdalrahmanAbdulla](https://www.linkedin.com/in/abdalrahman-altaai-1aaa45181) 
+<p><img src="https://komarev.com/ghpvc/?username=abdalrahman-abdulla&style=flat"</p>
+
+
