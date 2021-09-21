@@ -21,8 +21,11 @@ const 3BD = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 }; 
 ```
+👇 Hit in your console or terminal to connect with me.
 
-You can reach me on: [AbdalrahmanAbdulla](https://www.linkedin.com/in/abdalrahman-altaai-1aaa45181) 
+```bash
+npx abdalrahman
+```
 <p><img src="https://komarev.com/ghpvc/?username=abdalrahman-abdulla&style=flat"</p>
 
 
