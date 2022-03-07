@@ -13,7 +13,7 @@ const 3BD = {
             TS: ["Node", "Express", "TypeORM", "Prisma"],
             PHP: ["laravel"],
         },
-        frontEnd: ["Vuejs", "React & Next"],
+        frontEnd: ["Vuejs","EmberJs", "React & Next"],
         databases: ["MySql", "PostgreSql","Mongo"],
         misc: ["Firebase", "Socket.IO", "Pusher"]
     },
