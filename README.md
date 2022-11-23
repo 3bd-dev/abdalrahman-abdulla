@@ -12,11 +12,12 @@ const 3BD = {
         backEnd: {
             TS: ["Node", "Express", "TypeORM", "Prisma"],
             PHP: ["laravel"],
+            GO
         },
         frontEnd: ["Vuejs", "React & Next", "EmberJs"],
         databases: ["MySql", "PostgreSql","Mongo"],
         misc: ["Firebase", "Socket.IO", "Pusher"]
     },
-    currentFocus: "Go & DevOps",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "build services",
+    funFact: "There are two ways to write error-free code; only the third one works"
 }; 
