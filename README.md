@@ -7,7 +7,7 @@
 ```javascript
 const 3BD = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "PHP"],
+    code: ["GO", "Javascript", "Typescript", "PHP"],
     technologies: {
         backEnd: {
             TS: ["Node", "Express", "TypeORM", "Prisma"],
@@ -15,7 +15,7 @@ const 3BD = {
             GO
         },
         frontEnd: ["Vuejs", "React & Next", "EmberJs"],
-        databases: ["MySql", "PostgreSql","Mongo"],
+        databases: ["MySql", "PostgreSql", "Mongo", "Dgraph"],
         misc: ["Firebase", "Socket.IO", "Pusher"]
     },
     currentFocus: "build services",
